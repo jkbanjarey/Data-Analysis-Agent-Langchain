@@ -1,5 +1,6 @@
-````markdown
-# 📊 GenAI Data Analysis Agent with Langchain
+---
+
+# 📊 GenAI Data Analysis Agent in Langchain
 
 This project is an interactive, generative AI-powered data analysis and visualization tool built with **Streamlit**, **LangChain**, and **Google Gemini**. It allows users to upload CSVs or import Google Sheets and ask natural language queries, with intelligent responses and automated data visualizations.
 
@@ -7,22 +8,23 @@ This project is an interactive, generative AI-powered data analysis and visualiz
 
 ## 🚀 Features
 
-- 📥 Upload CSV files or paste Google Sheets URLs  
-- 🔎 Ask questions in plain English about your dataset  
-- 🤖 Uses Gemini via LangChain to process queries  
-- 📈 Automatically generates Python-based data visualizations  
-- 🧠 Remembers chat history  
-- 💾 Option to download AI-generated answers as CSV  
+* 📥 Upload CSV files or paste Google Sheets URLs
+* 🔎 Ask questions in plain English about your dataset
+* 🤖 Uses Gemini via LangChain to process queries
+* 📈 Automatically generates Python-based data visualizations
+* 🧠 Remembers chat history
+* 💾 Option to download AI-generated answers as CSV
 
 ---
 
 ## 📦 Installation
 
 1. **Clone this repository:**
+
    ```bash
    git clone https://github.com/your-username/genai-data-visualizer.git
    cd genai-data-visualizer
-````
+   ```
 
 2. **Create a virtual environment (optional but recommended):**
 
@@ -103,3 +105,4 @@ Then open the URL (typically `http://localhost:8501`) in your browser.
 * [LangChain](https://www.langchain.com/)
 * [Google Gemini](https://ai.google.dev/gemini-api)
 
+---
