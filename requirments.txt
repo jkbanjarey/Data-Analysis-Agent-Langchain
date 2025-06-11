@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+requests
+faiss-cpu
+langchain_experimental
